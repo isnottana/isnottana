@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 🖤🖤
 Meu nome é Ana Leticia de Souza
 
-Estou estudando na ![](![Alura](https://alura.valeonetworks.com/)
+Estou estudando na ![Alura](https://alura.valeonetworks.com/)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
